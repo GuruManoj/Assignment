@@ -3,5 +3,5 @@
 task :default => :run
 
 task :run do
-  require '.Desktop/Python/hello/vo'
+  require '.Desktop/Python/hello/vo.py'
 end
