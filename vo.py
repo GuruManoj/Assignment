@@ -20,3 +20,4 @@ x1, v1, x2, v2 = [int(x1), int(v1), int(x2), int(v2)]
 result = kangaroo(x1, v1, x2, v2)
 print(result)
 print(x1)
+print(x1)
