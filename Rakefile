@@ -3,5 +3,5 @@
 task :default => :run
 
 task :run do
-  require '/home/guru/Desktop/Python/hello/vo.py'
+  require './hello/vo.py'
 end
